@@ -23,6 +23,8 @@ jobs:
         run: python app.py build --base-url "${SITE_URL}"
         env:
           SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          JADE_AI_SUMMARY_MAX_ITEMS_PER_RUN: "5"
 
       - name: Commit generated files
         shell: bash
