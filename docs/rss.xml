@@ -5,7 +5,20 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 18 Apr 2026 21:05:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 21:41:16 +0200</lastBuildDate>
+    <item>
+      <title>Conseil d'État, 5ème chambre, 16/04/2026, 510610, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000053909518.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000053909518.html</guid>
+      <pubDate>Mon, 20 Apr 2026 21:41:16 +0200</pubDate>
+      <description>Vu la procédure suivante :
+Par une ordonnance n° 2404083 du 13 août 2024, le juge des référés du tribunal administratif de Nice, statuant sur le fondement de l'article L. 521-1 du code de justice administrative, a suspendu l'exécution de l'arrêté du 6 mai 2024 par lequel le maire de la commune de Beaulieu-sur-Mer (Alpes-Maritimes) a autorisé l'ouverture tardive de l'établissement Circé pour la période du 9 mai 2024...
+
+            Juridiction : Conseil d'État
+            Date de décision : 16/04/2026
+            Numéro : 510610
+            Archive source : JADE_20260420-214116.tar.gz</description>
+    </item>
     <item>
       <title>CAA de TOULOUSE, 1ère chambre, 16/04/2026, 24TL02299, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000053910901.html</link>
@@ -1875,19 +1888,6 @@ Par une requête, enregistrée le 27 mars 2026 au secrétariat du contentieux du
             Juridiction : Conseil d'État
             Date de décision : 16/04/2026
             Numéro : 514124
-            Archive source : JADE_20260418-210500.tar.gz</description>
-    </item>
-    <item>
-      <title>Conseil d'État, 5ème chambre, 16/04/2026, 510610, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000053909518.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000053909518.html</guid>
-      <pubDate>Sat, 18 Apr 2026 21:05:00 +0200</pubDate>
-      <description>Vu la procédure suivante :
-Par une ordonnance n° 2404083 du 13 août 2024, le juge des référés du tribunal administratif de Nice, statuant sur le fondement de l'article L. 521-1 du code de justice administrative, a suspendu l'exécution de l'arrêté du 6 mai 2024 par lequel le maire de la commune de Beaulieu-sur-Mer (Alpes-Maritimes) a autorisé l'ouverture tardive de l'établissement Circé pour la période du 9 mai 2024...
-
-            Juridiction : Conseil d'État
-            Date de décision : 16/04/2026
-            Numéro : 510610
             Archive source : JADE_20260418-210500.tar.gz</description>
     </item>
     <item>
