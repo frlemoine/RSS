@@ -5,7 +5,21 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 22 Apr 2026 21:41:45 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:38:44 +0200</lastBuildDate>
+    <item>
+      <title>Conseil d'État, 7ème - 2ème chambres réunies, 17/04/2026, 503412</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000053910851.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000053910851.html</guid>
+      <pubDate>Thu, 23 Apr 2026 21:38:44 +0200</pubDate>
+      <description>Vu la procédure suivante :
+M. A... C..., M. D... B... et Mme E... F... ont demandé au tribunal administratif de Caen d'annuler le contrat que la commune de Tilly-sur-Seulles a conclu avec la société Jones TP en vue de la réalisation de travaux de voirie. Par un jugement n° 2201185 du 22 janvier 2024, le tribunal administratif de Caen a rejeté leur demande.
+Par un arrêt n° 24NT00896 du 7 février 2025, la cour...
+
+            Juridiction : Conseil d'État
+            Date de décision : 17/04/2026
+            Numéro : 503412
+            Archive source : JADE_20260423-213844.tar.gz</description>
+    </item>
     <item>
       <title>CAA de TOULOUSE, Juge des référés, 20/04/2026, 26TL00358, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000053929708.html</link>
@@ -2031,20 +2045,6 @@ M. B... A..., à l'appui de sa requête présentée devant la chambre disciplina
             Juridiction : Conseil d'État
             Date de décision : 17/04/2026
             Numéro : 511725
-            Archive source : JADE_20260422-214145.tar.gz</description>
-    </item>
-    <item>
-      <title>Conseil d'État, 7ème - 2ème chambres réunies, 17/04/2026, 503412</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000053910851.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000053910851.html</guid>
-      <pubDate>Wed, 22 Apr 2026 21:41:45 +0200</pubDate>
-      <description>Vu la procédure suivante :
-M. A... C..., M. D... B... et Mme E... Jardin ont demandé au tribunal administratif de Caen d'annuler le contrat que la commune de Tilly-sur-Seulles a conclu avec la société Jones TP en vue de la réalisation de travaux de voirie. Par un jugement n° 2201185 du 22 janvier 2024, le tribunal administratif de Caen a rejeté leur demande.
-Par un arrêt n° 24NT00896 du 7 février 2025, la cour...
-
-            Juridiction : Conseil d'État
-            Date de décision : 17/04/2026
-            Numéro : 503412
             Archive source : JADE_20260422-214145.tar.gz</description>
     </item>
     <item>
