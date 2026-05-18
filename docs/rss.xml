@@ -5,7 +5,20 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 16 May 2026 21:19:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 21:14:50 +0200</lastBuildDate>
+    <item>
+      <title>Conseil d'État, Juge des référés, 15/05/2026, 515328, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054104688.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054104688.html</guid>
+      <pubDate>Mon, 18 May 2026 21:14:50 +0200</pubDate>
+      <description>Vu la procédure suivante :
+M. B... C... a demandé au juge des référés du tribunal administratif de Rennes, statuant sur le fondement de l'article L. 521-2 du code de justice administrative, en premier lieu, de l'admettre au bénéfice de l'aide juridictionnelle provisoire, en deuxième lieu, de suspendre l'exécution de l'arrêté du 16 mai 2024 du préfet de la Seine-Saint-Denis portant obligation de quitter le territoire...
+
+            Juridiction : Conseil d'État
+            Date de décision : 15/05/2026
+            Numéro : 515328
+            Archive source : JADE_20260518-211450.tar.gz</description>
+    </item>
     <item>
       <title>Conseil d'État, Juge des référés, 15/05/2026, 515506, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054104689.html</link>
@@ -17,19 +30,6 @@ Mme B... dite C... A... a demandé au juge des référés du tribunal administra
             Juridiction : Conseil d'État
             Date de décision : 15/05/2026
             Numéro : 515506
-            Archive source : JADE_20260516-211905.tar.gz</description>
-    </item>
-    <item>
-      <title>Conseil d'État, Juge des référés, 15/05/2026, 515328, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054104688.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054104688.html</guid>
-      <pubDate>Sat, 16 May 2026 21:19:05 +0200</pubDate>
-      <description>Vu la procédure suivante :
-M. B... C... a demandé au juge des référés du tribunal administratif de Rennes, statuant sur le fondement de l'article L. 521-2 du code de justice administrative, en premier lieu, de l'admettre au bénéfice de l'aide juridictionnelle provisoire, en deuxième lieu, de suspendre l'exécution de l'arrêté du 16 mai 2024 du préfet de la Seine-Saint-Denis portant obligation de quitter le territoire...
-
-            Juridiction : Conseil d'État
-            Date de décision : 15/05/2026
-            Numéro : 515328
             Archive source : JADE_20260516-211905.tar.gz</description>
     </item>
     <item>
