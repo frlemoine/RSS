@@ -5,7 +5,20 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 20 Jun 2026 21:26:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:38:22 +0200</lastBuildDate>
+    <item>
+      <title>Conseil d'État, 8ème chambre, 19/06/2026, 508068, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054282474.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054282474.html</guid>
+      <pubDate>Mon, 22 Jun 2026 21:38:22 +0200</pubDate>
+      <description>Vu la procédure suivante :
+Mmes C... B..., O... D... et A... D... ont demandé au tribunal administratif de Cergy-Pontoise de prononcer la décharge des cotisations de taxe foncière sur les propriétés bâties auxquelles elles ont été assujetties au titre des années 2020 à 2023 dans les rôles de la commune de Domont (Val-d'Oise). Par une ordonnance n° 2412142 du 20 mai 2025, le président de la 5ème chambre de ce...
+
+            Juridiction : Conseil d'État
+            Date de décision : 19/06/2026
+            Numéro : 508068
+            Archive source : JADE_20260622-213822.tar.gz</description>
+    </item>
     <item>
       <title>CAA de TOULOUSE, 3ème chambre, 16/06/2026, 25TL00858, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054282581.html</link>
@@ -167,19 +180,6 @@ Par une requête, enregistrée le 2 octobre 2025 au secrétariat du contentieux 
             Juridiction : Conseil d'État
             Date de décision : 19/06/2026
             Numéro : 508754
-            Archive source : JADE_20260620-212647.tar.gz</description>
-    </item>
-    <item>
-      <title>Conseil d'État, 8ème chambre, 19/06/2026, 508068, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054282474.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054282474.html</guid>
-      <pubDate>Sat, 20 Jun 2026 21:26:47 +0200</pubDate>
-      <description>Vu la procédure suivante :
-Mmes C... B..., Olfa D... et A... D... ont demandé au tribunal administratif de Cergy-Pontoise de prononcer la décharge des cotisations de taxe foncière sur les propriétés bâties auxquelles elles ont été assujetties au titre des années 2020 à 2023 dans les rôles de la commune de Domont (Val-d'Oise). Par une ordonnance n° 2412142 du 20 mai 2025, le président de la 5ème chambre de ce...
-
-            Juridiction : Conseil d'État
-            Date de décision : 19/06/2026
-            Numéro : 508068
             Archive source : JADE_20260620-212647.tar.gz</description>
     </item>
     <item>
