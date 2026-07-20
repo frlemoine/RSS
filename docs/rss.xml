@@ -5,7 +5,20 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 18 Jul 2026 21:08:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:07:01 +0200</lastBuildDate>
+    <item>
+      <title>Conseil d'État, 4ème chambre, 16/07/2026, 506342, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054440602.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054440602.html</guid>
+      <pubDate>Mon, 20 Jul 2026 21:07:01 +0200</pubDate>
+      <description>Vu les procédures suivantes :
+M. D... Y... D... et M. A... B... ont demandé au tribunal administratif de Montpellier d'annuler pour excès de pouvoir la décision du 23 septembre 2024 par laquelle le directeur régional de l'économie, de l'emploi, du travail et des solidarités d'Occitanie a homologué le document unilatéral portant projet de licenciement collectif et plan de sauvegarde de l'emploi au sein de la société...
+
+            Juridiction : Conseil d'État
+            Date de décision : 16/07/2026
+            Numéro : 506342
+            Archive source : JADE_20260720-210701.tar.gz</description>
+    </item>
     <item>
       <title>CAA de TOULOUSE, Juge des référés, 08/07/2026, 25TL01763, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054442162.html</link>
@@ -1274,19 +1287,6 @@ Par une requête, un mémoire complémentaire et un mémoire en réplique, enreg
             Juridiction : Conseil d'État
             Date de décision : 16/07/2026
             Numéro : 506376
-            Archive source : JADE_20260718-210817.tar.gz</description>
-    </item>
-    <item>
-      <title>Conseil d'État, 4ème chambre, 16/07/2026, 506342, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054440602.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054440602.html</guid>
-      <pubDate>Sat, 18 Jul 2026 21:08:17 +0200</pubDate>
-      <description>Vu les procédures suivantes :
-M. Dzifa Yves D... et M. A... B... ont demandé au tribunal administratif de Montpellier d'annuler pour excès de pouvoir la décision du 23 septembre 2024 par laquelle le directeur régional de l'économie, de l'emploi, du travail et des solidarités d'Occitanie a homologué le document unilatéral portant projet de licenciement collectif et plan de sauvegarde de l'emploi au sein de la société...
-
-            Juridiction : Conseil d'État
-            Date de décision : 16/07/2026
-            Numéro : 506342
             Archive source : JADE_20260718-210817.tar.gz</description>
     </item>
     <item>
