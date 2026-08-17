@@ -5,7 +5,21 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 14 Aug 2026 21:34:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:27:52 +0200</lastBuildDate>
+    <item>
+      <title>Cour Administrative d'Appel de Nancy, 3ème chambre - formation à 3, 05/05/2011, 10NC01471, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000023996495.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000023996495.html</guid>
+      <pubDate>Mon, 17 Aug 2026 21:27:52 +0200</pubDate>
+      <description>Vu la requête, enregistrée le 6 septembre 2010, présentée pour M. B... A..., demeurant chez Mme G... 3 F rue Marcel Aymé à Dole (39100), par Me Charmont ;
+M. A demande à la Cour :
+1°) d'annuler le jugement n° 0901413 du 10 mai 2010 par lequel le Tribunal administratif de Besançon a rejeté sa demande tendant à la condamnation du centre de réadaptation de Quingey à lui verser une somme de 8 800 euros en réparation du...
+
+            Juridiction : Cour Administrative d'Appel de Nancy
+            Date de décision : 05/05/2011
+            Numéro : 10NC01471
+            Archive source : JADE_20260817-212752.tar.gz</description>
+    </item>
     <item>
       <title>Conseil d'État, Juge des référés, 13/08/2026, 518653, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054682105.html</link>
@@ -2114,19 +2128,6 @@ La Société générale a demandé au tribunal administratif de Montreuil d'annu
             Juridiction : Conseil d'État
             Date de décision : 24/07/2026
             Numéro : 505713
-            Archive source : JADE_20260808-211633.tar.gz</description>
-    </item>
-    <item>
-      <title>Conseil d'État, 4ème - 1ère chambres réunies, 24/07/2026, 503700</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054485183.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054485183.html</guid>
-      <pubDate>Sat, 08 Aug 2026 21:16:33 +0200</pubDate>
-      <description>Vu la procédure suivante :
-M. A... B... a demandé au tribunal administratif de Bordeaux d'annuler pour excès de pouvoir la décision du 22 mars 2021 par laquelle l'inspecteur du travail de l'unité de contrôle Sud-Ouest Gironde de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi Nouvelle-Aquitaine a autorisé la société Bailly MJ, en qualité de liquidateur...
-
-            Juridiction : Conseil d'État
-            Date de décision : 24/07/2026
-            Numéro : 503700
             Archive source : JADE_20260808-211633.tar.gz</description>
     </item>
   </channel>
