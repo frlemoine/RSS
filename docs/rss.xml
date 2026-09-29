@@ -5,7 +5,21 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 26 Sep 2026 21:07:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:12:25 +0200</lastBuildDate>
+    <item>
+      <title>Conseil d'État, Juge des référés, 14/09/2026, 519188, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054841719.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054841719.html</guid>
+      <pubDate>Mon, 28 Sep 2026 21:12:25 +0200</pubDate>
+      <description>Vu la procédure suivante :
+Par une requête, enregistrée le 27 août 2026 au secrétariat du contentieux du Conseil d'Etat, la société Docteur B... A... demande au juge des référés du Conseil d'Etat, statuant sur le fondement de l'article L. 521-1 du code de justice administrative :
+1°) de suspendre l'exécution de la décision du 9 juillet 2026 par laquelle le conseil régional d'Auvergne-Rhône-Alpes de l'ordre des...
+
+            Juridiction : Conseil d'État
+            Date de décision : 14/09/2026
+            Numéro : 519188
+            Archive source : JADE_20260928-211225.tar.gz</description>
+    </item>
     <item>
       <title>Conseil d'État, Juge des référés, 25/09/2026, 519834, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054903692.html</link>
@@ -2152,21 +2166,6 @@ Par une ordonnance n° 2604716 du 22 avril 2026, le président de la 1ère...
             Juridiction : CAA de PARIS
             Date de décision : 23/09/2026
             Numéro : 26PA02567
-            Archive source : JADE_20260926-210736.tar.gz</description>
-    </item>
-    <item>
-      <title>CAA de PARIS, 2ème chambre, 23/09/2026, 26PA02565, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054893598.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054893598.html</guid>
-      <pubDate>Sat, 26 Sep 2026 21:07:36 +0200</pubDate>
-      <description>Vu la procédure suivante :
-Procédure contentieuse antérieure :
-M. B... A... a demandé au tribunal administratif de Melun d'annuler l'arrêté du 10 juin 2024 par lequel le préfet de police l'a obligé à quitter le territoire français sans délai et a fixé le pays de destination.
-Par un jugement n° 2407266 du 2 décembre 2025, la magistrate désignée par la présidente du tribunal administratif de Melun a rejeté sa...
-
-            Juridiction : CAA de PARIS
-            Date de décision : 23/09/2026
-            Numéro : 26PA02565
             Archive source : JADE_20260926-210736.tar.gz</description>
     </item>
   </channel>
