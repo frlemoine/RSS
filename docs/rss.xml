@@ -5,7 +5,35 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 10 Oct 2026 21:16:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 21:25:34 +0200</lastBuildDate>
+    <item>
+      <title>Conseil d'État, 9ème chambre jugeant seule, 09/10/2026, 516674, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054970267.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054970267.html</guid>
+      <pubDate>Mon, 12 Oct 2026 21:25:34 +0200</pubDate>
+      <description>Vu la procédure suivante :
+M. Y... S... a demandé au tribunal administratif de Lille d’annuler les opérations électorales qui se sont déroulées le 15 mars 2026 dans la commune d’Armbouts-Cappel (Nord) en vue de l’élection des conseillers municipaux et communautaires. Par un jugement n° 2602739 du 2 juin 2026, ce tribunal a rejeté sa protestation.
+Par une requête et un mémoire en réplique, enregistrés les 12 juin et...
+
+            Juridiction : Conseil d'État
+            Date de décision : 09/10/2026
+            Numéro : 516674
+            Archive source : JADE_20261012-212534.tar.gz</description>
+    </item>
+    <item>
+      <title>Conseil d'État, 4ème chambre jugeant seule, 08/10/2026, 513392, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054968693.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054968693.html</guid>
+      <pubDate>Mon, 12 Oct 2026 21:25:34 +0200</pubDate>
+      <description>Vu la procédure suivante :
+Par une requête et un mémoire en réplique, enregistrés au secrétariat du contentieux du Conseil d’Etat les 5 mars et 25 juin 2026, M. Z... T... demande au Conseil d’Etat :
+1°) d’annuler pour excès de pouvoir la décision du 28 juin 2025 par laquelle le Conseil national de l’ordre des médecins, statuant en formation restreinte, a annulé la décision de la formation restreinte du conseil...
+
+            Juridiction : Conseil d'État
+            Date de décision : 08/10/2026
+            Numéro : 513392
+            Archive source : JADE_20261012-212534.tar.gz</description>
+    </item>
     <item>
       <title>CAA de TOULOUSE, 1ère chambre, 08/10/2026, 25TL02085, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054970299.html</link>
@@ -382,20 +410,6 @@ La société Mousset et la société Cypréos France Eponges ont demandé au tri
             Juridiction : Conseil d'État
             Date de décision : 09/10/2026
             Numéro : 516698
-            Archive source : JADE_20261010-211641.tar.gz</description>
-    </item>
-    <item>
-      <title>Conseil d'État, 9ème chambre jugeant seule, 09/10/2026, 516674, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054970267.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054970267.html</guid>
-      <pubDate>Sat, 10 Oct 2026 21:16:41 +0200</pubDate>
-      <description>Vu la procédure suivante :
-M. Y... S... a demandé au tribunal administratif de Lille d’annuler les opérations électorales qui se sont déroulées le 15 mars 2026 dans la commune d’Armbouts-Cappel (Nord) en vue de l’élection des conseillers municipaux et communautaires. Par un jugement n° 2602739 du 2 juin 2026, ce tribunal a rejeté sa protestation.
-Par une requête et un mémoire en réplique, enregistrés les 12 juin et...
-
-            Juridiction : Conseil d'État
-            Date de décision : 09/10/2026
-            Numéro : 516674
             Archive source : JADE_20261010-211641.tar.gz</description>
     </item>
     <item>
@@ -2112,20 +2126,6 @@ M. L... H... a demandé au tribunal administratif d’Orléans d’annuler la d�
             Juridiction : CAA de VERSAILLES
             Date de décision : 08/10/2026
             Numéro : 24VE03006
-            Archive source : JADE_20261010-211641.tar.gz</description>
-    </item>
-    <item>
-      <title>CAA de VERSAILLES, 5ème chambre, 08/10/2026, 24VE03005, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054970142.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054970142.html</guid>
-      <pubDate>Sat, 10 Oct 2026 21:16:41 +0200</pubDate>
-      <description>Vu la procédure suivante :
-Procédure contentieuse antérieure :
-Mme H... I... a demandé au tribunal administratif d’Orléans d’annuler la décision du 12 mai 2021 par laquelle le président de la chambre de métiers et de l’artisanat de région Centre-Val de Loire a rejeté son recours formé contre la décision du président de la chambre de métiers et de l’artisanat du Loiret lui refusant le bénéfice de la prime...
-
-            Juridiction : CAA de VERSAILLES
-            Date de décision : 08/10/2026
-            Numéro : 24VE03005
             Archive source : JADE_20261010-211641.tar.gz</description>
     </item>
   </channel>
