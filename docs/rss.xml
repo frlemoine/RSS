@@ -5,7 +5,39 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:40:59 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:49:38 +0100</lastBuildDate>
+    <item>
+      <title>Conseil d'État, 7ème chambre jugeant seule, 29/10/2026, 513794, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000055036764.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000055036764.html</guid>
+      <pubDate>Thu, 05 Nov 2026 21:49:38 +0100</pubDate>
+      <description>Vu la procédure suivante :
+Par une requête et un mémoire en réplique, enregistrés le 18 mars et le 10 juillet 2026 au secrétariat du contentieux du Conseil d’Etat, Mme I... Z... demande au Conseil d’Etat :
+1°) d’annuler pour excès de pouvoir la décision implicite rejetant sa demande de titularisation dans le corps des sous-préfets ;
+2°) d’annuler pour excès de pouvoir le décret du Président de la République du 11...
+
+            Juridiction : Conseil d'État
+            Date de décision : 29/10/2026
+            Numéro : 513794
+            Archive source : JADE_20261105-214938.tar.gz</description>
+    </item>
+    <item>
+      <title>CAA de PARIS, 8ème chambre, 06/10/2026, 26PA00484</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000054960375.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000054960375.html</guid>
+      <pubDate>Thu, 05 Nov 2026 21:49:38 +0100</pubDate>
+      <description>Vu la procédure suivante :
+Procédure contentieuse antérieure :
+M. B... a demandé au tribunal administratif de Paris d’annuler l’arrêté du 22 janvier 2024 par lequel le préfet de police a rejeté sa demande de renouvellement de titre de séjour. 
+Par un jugement n° 2407041/2-1 du 25 novembre 2025, le tribunal administratif de Paris a rejeté sa demande.
+Procédure devant la cour :
+Par une requête enregistrée le 23...
+
+            Juridiction : CAA de PARIS
+            Date de décision : 06/10/2026
+            Numéro : 26PA00484
+            Archive source : JADE_20261105-214938.tar.gz</description>
+    </item>
     <item>
       <title>CAA de DOUAI, 4e chambre - formation à 3, 26/10/2026, 25DA01537, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000055056694.html</link>
@@ -1395,21 +1427,6 @@ Par une requête sommaire, un mémoire complémentaire et un mémoire en répliq
             Archive source : JADE_20261030-214909.tar.gz</description>
     </item>
     <item>
-      <title>Conseil d'État, 7ème chambre jugeant seule, 29/10/2026, 513794, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000055036764.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000055036764.html</guid>
-      <pubDate>Fri, 30 Oct 2026 21:49:09 +0100</pubDate>
-      <description>Vu la procédure suivante :
-Par une requête et un mémoire en réplique, enregistrés le 18 mars et le 10 juillet 2026 au secrétariat du contentieux du Conseil d’Etat, Mme I... Z... demande au Conseil d’Etat :
-1°) d’annuler pour excès de pouvoir la décision implicite rejetant sa demande de titularisation dans le corps des sous-préfets ;
-2°) d’annuler pour excès de pouvoir le décret du Président de la République du 11...
-
-            Juridiction : Conseil d'État
-            Date de décision : 29/10/2026
-            Numéro : 513794
-            Archive source : JADE_20261030-214909.tar.gz</description>
-    </item>
-    <item>
       <title>Conseil d'État, 7ème chambre jugeant seule, 29/10/2026, 509230, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000055036763.html</link>
       <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000055036763.html</guid>
@@ -2150,19 +2167,6 @@ L’établissement public Société des grands projets a demandé au tribunal ad
             Juridiction : Conseil d'État
             Date de décision : 28/10/2026
             Numéro : 514881
-            Archive source : JADE_20261029-215000.tar.gz</description>
-    </item>
-    <item>
-      <title>Conseil d'État, 9ème chambre jugeant seule, 28/10/2026, 514878, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000055027819.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000055027819.html</guid>
-      <pubDate>Thu, 29 Oct 2026 21:50:00 +0100</pubDate>
-      <description>Vu la procédure suivante :
-L’établissement public Société des grands projets a demandé au tribunal administratif de Melun de prononcer la réduction des cotisations de taxe d’aménagement auxquelles il a été assujetti à raison d’un permis de construire qui lui a été délivré le 12 janvier 2017 pour la construction de la gare de Bagneux. Par un jugement n° 2210286 du 11 février 2026, ce tribunal a fait droit à sa...
-
-            Juridiction : Conseil d'État
-            Date de décision : 28/10/2026
-            Numéro : 514878
             Archive source : JADE_20261029-215000.tar.gz</description>
     </item>
   </channel>
