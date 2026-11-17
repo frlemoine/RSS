@@ -5,7 +5,20 @@
     <link>https://frlemoine.github.io/RSS/</link>
     <description>Flux RSS quotidien des nouvelles décisions publiées dans le fonds JADE.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 14 Nov 2026 21:04:30 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:23:57 +0100</lastBuildDate>
+    <item>
+      <title>Conseil d'État, Juge des référés, formation collégiale, 04/11/2026, 520267, Inédit au recueil Lebon</title>
+      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000055067906.html</link>
+      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000055067906.html</guid>
+      <pubDate>Mon, 16 Nov 2026 21:23:57 +0100</pubDate>
+      <description>Vu la procédure suivante :
+M. G... et Mme Y... W..., agissant en leur nom propre et en qualité de représentants légaux de leur enfant OC... I..., ont demandé au juge des référés du tribunal administratif de Paris, statuant sur le fondement de l’article L. 521-2 du code de justice administrative, de suspendre l’exécution de la décision du 10 juillet 2026 de l’Assistance publique-Hôpitaux de Paris (AP-HP) portant...
+
+            Juridiction : Conseil d'État
+            Date de décision : 04/11/2026
+            Numéro : 520267
+            Archive source : JADE_20261116-212357.tar.gz</description>
+    </item>
     <item>
       <title>CAA de TOULOUSE, 1ère chambre, 12/11/2026, 26TL01673, Inédit au recueil Lebon</title>
       <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000055088357.html</link>
@@ -2173,23 +2186,6 @@ Par une requête, enregistrée le 26 octobre 2025, Mme I..., représentée par M
             Juridiction : CAA de DOUAI
             Date de décision : 12/11/2026
             Numéro : 25DA01907
-            Archive source : JADE_20261113-215108.tar.gz</description>
-    </item>
-    <item>
-      <title>CAA de DOUAI, 2e chambre - formation à 3, 12/11/2026, 25DA01751, Inédit au recueil Lebon</title>
-      <link>https://frlemoine.github.io/RSS/decisions/CETATEXT000055086595.html</link>
-      <guid>https://frlemoine.github.io/RSS/decisions/CETATEXT000055086595.html</guid>
-      <pubDate>Fri, 13 Nov 2026 21:51:08 +0100</pubDate>
-      <description>Procédure devant la cour :
-Par une requête, enregistrée le 30 septembre 2025, le préfet du Nord demande à la cour :
-1°) d’annuler ce jugement en tant qu’il a annulé sa décision portant interdiction de retour sur le territoire français d’une durée d’un an ; 
-2°) de rejeter la demande d’annulation de cette décision présentée en première instance.
-Il soutient qu’il n’a commis aucune erreur d’appréciation.
-La requête et...
-
-            Juridiction : CAA de DOUAI
-            Date de décision : 12/11/2026
-            Numéro : 25DA01751
             Archive source : JADE_20261113-215108.tar.gz</description>
     </item>
   </channel>
